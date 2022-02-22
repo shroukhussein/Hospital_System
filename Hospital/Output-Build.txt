@@ -1,0 +1,3 @@
+﻿1>------ Rebuild All started: Project: Hospital, Configuration: Debug Any CPU ------
+1>  Hospital -> C:\Users\user\Desktop\Hospital\Hospital\bin\Debug\Hospital.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
